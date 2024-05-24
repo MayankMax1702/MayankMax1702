@@ -3,12 +3,14 @@
 <h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 <div style="text-align:center;">
-  <img align="right" alt="coding" width="400" height="250" src=https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/3f9fa29f5af2826e-da/s1280x1920/5ee548ab4e72ad78153adefc1053f76ae244b968.gifv>
+  <img align="center" alt="coding" height="440" width="1000"  src=https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/3f9fa29f5af2826e-da/s1280x1920/5ee548ab4e72ad78153adefc1053f76ae244b968.gifv>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankmax1702&label=Profile%20views&color=0e75b6&style=flat" alt="mayankmax1702" /> </p>
 
 - 📫 How to reach me **mayankm948@gmail.com**
+- 🌱 I’m currently learning **DSA with C++ and NodeJS**
+- ⚡ Fun fact - **I am a Fan of Tony Stark(Robert Downey Jr.)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
